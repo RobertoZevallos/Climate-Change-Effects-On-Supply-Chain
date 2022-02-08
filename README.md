@@ -1,4 +1,4 @@
-# Climate-Change-Effects-On-Supply-Chain
+# Climate Change Effects On Supply Chain
 Tableau story that centers on providing recommendations to world leaders and supply chain managers on how to consider the effects of climate change into their decision-making process.
 
 The developing of the story considers:
@@ -8,4 +8,4 @@ The developing of the story considers:
 3. Combination of words, charts, and indicators.
 4. Focus on Design Thinking, colors and simplicity that allow an easy navigation and dashboard flow.
 
-Access to the public visualization: https://public.tableau.com/views/ClimateChangeeffectsonSupplyChain/Story?:language=en-US&:display_count=n&:origin=viz_share_link
+Access the online story [here](https://public.tableau.com/views/ClimateChangeeffectsonSupplyChain/Story?:language=en-US&:display_count=n&:origin=viz_share_link).
